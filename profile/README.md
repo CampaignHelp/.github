@@ -15,7 +15,7 @@ Progressive 501(c)(3)s and (c)(4)s, labor unions, electoral committees, and advo
 Tools we built for client work and open-sourced because the rest of the movement could use them too:
 
 - **[ak-health-check](https://github.com/CampaignHelp/ak-health-check)** — A dashboard of SQL checks for ActionKit instances. Catches the silent stuff before it shows up in a board report.
-- **[ak-redirect-snippets](https://github.com/CampaignHelp/ak-redirect-snippets)** — Tested Django-template snippets for the redirects, splash pages, and one-off conditionals that every AK org ends up writing.
+- **[ak-redirect-blocks](https://github.com/CampaignHelp/ak-redirect-blocks)** — Tested Django-template snippets for the redirects, splash pages, and one-off conditionals that every AK org ends up writing.
 
 More to come. If your org runs on ActionKit or Action Network and you've got a problem you can't find a vendor for, that's the kind of thing we work on.
 
